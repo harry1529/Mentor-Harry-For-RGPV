@@ -1,0 +1,6 @@
+{
+  "name": "Mentor Harry for RGPV",
+  "description": "Your Study Partner for Engineering Success. Verified chapter-wise handwritten notes, guidebook summaries, and previous year papers for RGPV engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
